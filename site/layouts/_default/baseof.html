@@ -2,8 +2,10 @@
 <html lang="en">
   {{ partial "head" . }}
   <body class="sans-serif">
+    <div class="columns"></div>
     <!-- {{ partial "nav" . }} -->
     {{ block "main" . }}{{ end }} 
     {{ partial "footer" . }} 
+    </div>
   </body>
 </html>
