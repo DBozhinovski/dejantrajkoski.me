@@ -1,8 +1,8 @@
-element {
+:root {
   --red: #ff0000;
-  --darkGray: #333333;
+  --dark-gray: #333333;
   --white: #ffffff;
-  --lightBlue: #00cfff;
-  --darkBlue: #260f77;
-  --lightGreen: #07f82f;
+  --light-blue: #00cfff;
+  --dark-blue: #260f77;
+  --light-green: #07f82f;
 }
