@@ -1,0 +1,49 @@
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  width: 170px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar .logo {
+  padding-top: 60px;
+  align-self: center;
+  width: 40px;
+}
+
+.sidebar img {
+  width: 40px;
+}
+
+.sidebar .nav {
+  text-align: center;
+  align-self: center;
+  list-style: none;
+}
+
+.sidebar .nav li {
+  margin-top: 30px;
+}
+
+.sidebar .nav a {
+  text-decoration: none;
+  color: var(--light-blue);
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.sidebar .nav a:active {
+  color: var(--dark-gray);
+}
+
+.sidebar .mail {
+  transform: rotate(-90deg) translateX(100px);
+  margin-top: auto;
+}
+
+.sidebar .mail a {
+  color: var(--dark-gray);
+  font-size: 12px;
+  text-decoration: none;
+}

@@ -4,7 +4,8 @@
   <body class="sans-serif">
     <div class="columns"></div>
     <!-- {{ partial "nav" . }} -->
-    {{ block "main" . }}{{ end }} 
+    {{ partial "sidebar" . }}
+    <div class="main">{{ block "main" . }}{{ end }}</div> 
     {{ partial "footer" . }} 
     </div>
   </body>
