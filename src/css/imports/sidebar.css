@@ -33,7 +33,7 @@
   font-size: 14px;
 }
 
-.sidebar .nav a:active {
+.sidebar .nav a:active, .sidebar .nav a.active {
   color: var(--dark-gray);
 }
 
