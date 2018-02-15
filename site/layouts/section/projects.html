@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <div class="projects">
-		{{ .Content }}
+    {{ range .Data.Pages }}
+      <li>{{.Title}}</li>
+    {{ end }}
 </div>
 
 {{ end }}
