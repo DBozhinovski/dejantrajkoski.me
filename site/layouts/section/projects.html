@@ -2,7 +2,7 @@
 
 <div class="projects">
     {{ range .Data.Pages }}
-      <li>{{.Title}}</li>
+      {{ partial "project" . }}
     {{ end }}
 </div>
 
