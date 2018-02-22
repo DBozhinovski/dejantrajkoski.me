@@ -3,10 +3,14 @@
   padding-top: 60px;
 }
 
+.projects a {
+  text-decoration: none;
+}
+
 .projects .project {
   background: #000;
-  width: 940px;
-  height: 510px;
+  width: 1016px;
+  height: 565px;
   border-radius: 18px;
 }
 
@@ -20,7 +24,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  top: 190px;
+  top: 217px;
   left: -125px;
   position: relative;
 }

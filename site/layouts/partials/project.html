@@ -1,6 +1,8 @@
-<div class="project">
-  <div class="title">
-    <h1>{{ .Title }}</h1>
-    <h2>{{ .Description }}</h2>
+<a href="{{ .Permalink }}">
+  <div class="project" style='background: url("{{ $.Param "cover" }}") no-repeat;'>
+    <div class="title">
+      <h1>{{ .Title }}</h1>
+      <h2>{{ .Description }}</h2>
+    </div>
   </div>
-</div>
+</a>
