@@ -4,6 +4,8 @@
 @import "imports/typography.css";
 
 @import "imports/main.css";
+@import "imports/about.css";
+@import "imports/contact.css";
 @import "imports/projects.css";
 @import "imports/project.css";
 @import "imports/sidebar.css";

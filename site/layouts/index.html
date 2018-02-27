@@ -1,14 +1,26 @@
 {{ define "main" }}
 
-<p>Dejan Trajkoski portfolio</p>
-<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<main>
+  <div class="about" id="about">
+    {{ with .Site.GetPage "section" "about" }}
+    <h1>
+      Dejan <span class="blue">UX/UI</span> Designer
+    </h1>
+    <p>{{ .Content }}</p>
+    {{ end }}
+  </div>
 
-{{ partial "short-text" .Params.blurb}}
+  <div class="projects" id="projects">
+      {{ range where .Data.Pages "Section" "projects" }}
+        {{ partial "project" . }}
+      {{ end }}
+  </div>
 
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }} -->
+  <div class="contact" id="contact">
+      {{ with .Site.GetPage "section" "contact" }}
+      <p>{{ .Content }}</p>
+      {{ end }}
+    </div>
+</main>
 
 {{ end }}

@@ -1,15 +1,14 @@
 const bindLinks = () => {
-  const links = document.querySelectorAll('.nav a'); 
+  const links = document.querySelectorAll(".nav a");
 
-  document.querySelector('.logo').addEventListener('click', () => {
-    console.log('logo');
-    links.forEach((el) => el.classList.remove('active'));
+  document.querySelector(".logo").addEventListener("click", () => {
+    links.forEach((el) => el.classList.remove("active"));
   });
 
   links.forEach((el) => {
-    el.addEventListener('click', () => {
-      links.forEach((el) => el.classList.remove('active'));
-      el.classList.add('active');
+    el.addEventListener("click", () => {
+      links.forEach((el) => el.classList.remove("active"));
+      el.classList.add("active");
     });
   });
 };

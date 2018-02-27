@@ -1,0 +1,24 @@
+.about {
+  margin-left: 225px;
+  padding-top: 20px;
+  width: 1016px;
+  display: flex;
+}
+
+.about h1 {
+  font-size: 30px;
+  line-height: 34px;
+  text-align: right;
+  font-weight: 800;
+}
+
+.about h1 .blue {
+  color: var(--light-blue);
+}
+
+.about p {
+  font-size: 20px;
+  line-height: 35px;
+  margin-left: 20px;
+  text-align: justify;
+}
