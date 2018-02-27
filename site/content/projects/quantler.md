@@ -2,6 +2,6 @@
 title: Quantler
 date: 2018-02-22T15:35:53.790Z
 description: web application
-cover: /img/sideo.png
+cover: /img/quantler cover.jpg
 ---
 Quantler web app
