@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields: 
          - {label: Body, name: body, widget: markdown}
-      - file: "site/content/about/_index.md"
+      - file: "site/content/contact/_index.md"
         label: "Contact section"
         name: "contact"
         fields: 
