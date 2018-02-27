@@ -1,9 +1,13 @@
 ---
 title: SIDEO.IO
-date: 2018-02-26T00:00:00+01:00
+date: 2018-02-25T23:00:00.000Z
 description: web application
 cover: /img/sideo.png
 ---
+![cover](/img/sideo-single-cover.jpg)
+
+
+
 # Attach and describe
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
