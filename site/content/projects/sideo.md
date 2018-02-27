@@ -1,7 +1,7 @@
 ---
 title: SIDEO.IO
 date: 2018-02-25T23:00:00.000Z
-description: web application
+description: Social Video platform
 cover: /img/sideo.png
 ---
 ![cover](/img/sideo-single-cover.jpg)
