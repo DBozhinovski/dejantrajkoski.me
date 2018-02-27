@@ -1,0 +1,34 @@
+.project-single {
+  margin-left: 10px;
+  width: 1016px;
+}
+
+.project-single img.project-cover {
+  width: 1016px;
+  height: 565px;
+}
+
+.project-single h1 {
+  text-align: center;
+  color: var(--light-blue);
+  margin: 50px 0;
+  text-transform: uppercase;
+}
+
+.project-single p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.project-single a.next {
+  display: block;
+  width: 100%;
+  background: var(--light-blue);
+  font-size: 24px;
+  font-weight: bolder;
+  color: #fff;
+  text-align: center;
+  padding: 60px 0;
+  text-decoration: none;
+  margin-top: 30px;
+}

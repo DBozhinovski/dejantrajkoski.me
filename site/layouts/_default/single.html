@@ -1,6 +1,9 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+<div class="project-single">
+  {{ .Content }}
+  <a class="next" href="{{ .Next }}">check my next project 🡪</a>
+</div>
+
 
 {{ end }}
