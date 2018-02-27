@@ -15,3 +15,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Short Description", name: "description", widget: "text"}
       - {label: "Cover Image", name: "cover", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "sections"
+    label: "Sections"
+    files:
+      - file: "site/content/about/_index.md"
+      label: "About section"
+      name: "about"
+      fields: 
+        - {label: Body, name: body, widget: markdown}
+      - file: "site/content/about/_index.md"
+      label: "Contact section"
+      name: "contact"
+      fields: 
+        - {label: Body, name: body, widget: markdown}
