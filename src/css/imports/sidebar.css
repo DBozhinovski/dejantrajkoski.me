@@ -28,7 +28,7 @@
 
 .sidebar .nav a {
   text-decoration: none;
-  color: var(--light-blue);
+  color: var(--dark-gray);
   font-weight: bold;
   font-size: 14px;
 }
