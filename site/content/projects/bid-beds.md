@@ -4,15 +4,19 @@ date: 2018-02-27T15:46:07.670Z
 description: 'Booking application '
 cover: /img/bid beds.jpg
 ---
-![](/img/bid beds cover.jpg)
+!\[](/img/bid beds cover.jpg)
 
-# Attach and describe
+# Best locations
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+
+![](/img/best locations.jpg)
+
+# Search your destinations
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-# Play and watch
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+![](/img/search your destinations.jpg)
 
 # Invite more friends
 
