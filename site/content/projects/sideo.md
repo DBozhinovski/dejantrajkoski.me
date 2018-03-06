@@ -8,30 +8,24 @@ cover: /img/sideo.png
 
 # Attach and describe
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Write down your video or image title and description while on its way to be uploaded
 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-
-![](/img/attach assets 1.jpg)
+!\[](/img/attach assets 1.jpg)
 
 # Play and watch
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-
-
-![](/img/play and watch.jpg)
+!\[](/img/play and watch.jpg)
 
 # Invite more friends
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-
-
-![](/img/invite more friends.jpg)
+!\[](/img/invite more friends.jpg)
 
 # Homepage
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-![](/img/home screen.jpg)
+!\[](/img/home screen.jpg)
