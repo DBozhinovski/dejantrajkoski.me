@@ -8,7 +8,7 @@ cover: /img/sideo.png
 
 # Attach and describe
 
-Write down your video or image title and description while on its way to be uploaded
+While the asset is uploading (converting) you can describe the image or video til is finished. No need to edit and save the asset, you can do it with one shot.
 
 !\[](/img/attach assets 1.jpg)
 
