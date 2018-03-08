@@ -2,7 +2,15 @@
 
 <div class="project-single">
   {{ .Content }}
-  <a class="next" href="{{ .Next }}">check my next project 🡪</a>
+  {{ if .Next }} 
+    <a class="next" href="{{.Next.Permalink}}">check my next project 🡪</a> 
+  {{ else }}
+    {{$posts := ($.Site.GetPage "section" "projects").Pages.ByPublishDate.Reverse}}
+    <!--Grab the most recent-->
+    {{ range first 1 $posts }}
+      <a class="next" href="{{.Permalink}}">check my next project 🡪</a>
+    {{ end }}
+  {{ end }}
 </div>
 
 
