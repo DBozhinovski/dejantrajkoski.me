@@ -2,7 +2,7 @@
 title: SIDEO.IO
 date: 2018-02-25T23:00:00.000Z
 description: Social Video platform
-cover: /img/play and watch.jpg
+cover: /img/cover photo th01.png
 ---
 ![cover](/img/sideo-single-cover.jpg)
 
