@@ -11,9 +11,7 @@ cover: /img/cover photo th01.png
 While the asset is uploading (converting) you can describe the image or video til is finished.
  No need to edit and save the asset, you can do it with one shot.
 
-
-
-![](/img/attach assets 1.jpg)
+!\[](/img/attach assets 1.jpg)
 
 # Play and watch
 
@@ -21,20 +19,16 @@ To join discussions with your friends
 
 
 
-![](/img/play and watch.jpg)
+![](/img/cover photo th03.png)
 
 # Invite more friends
 
 To become a part of your closest circle 
 
-
-
-![](/img/invite more friends.jpg)
+!\[](/img/invite more friends.jpg)
 
 # Final Touch
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-
-
-![](/img/home screen.jpg)
+!\[](/img/home screen.jpg)
